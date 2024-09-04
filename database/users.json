@@ -10,5 +10,11 @@
     "name": "Nguyễn Văn b",
     "email": "nvb@gmail.com",
     "address": "Hà Nội"
+  },
+  {
+    "id": 3,
+    "name": "Nguyễn Văn c",
+    "email": "nvc@gmail.com",
+    "address": "Hà Nam"
   }
 ]
